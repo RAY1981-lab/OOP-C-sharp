@@ -1,0 +1,15 @@
+D:\Программирование\C#\Уроки\ООП\Snake\bin\Debug\net6.0\Snake.exe
+D:\Программирование\C#\Уроки\ООП\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\Программирование\C#\Уроки\ООП\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+D:\Программирование\C#\Уроки\ООП\Snake\bin\Debug\net6.0\Snake.dll
+D:\Программирование\C#\Уроки\ООП\Snake\bin\Debug\net6.0\Snake.pdb
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.dll
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.pdb
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+D:\Программирование\C#\Уроки\ООП\Snake\obj\Debug\net6.0\ref\Snake.dll
